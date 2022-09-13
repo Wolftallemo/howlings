@@ -1,4 +1,4 @@
-baseURL = 'https://howlings.wolftallemo.com/'
+baseURL = 'https://wolftallemo.github.io/howlings'
 languageCode = 'en-us'
 theme = 'm10c'
 title = "Wolftallemo's Howlings"
