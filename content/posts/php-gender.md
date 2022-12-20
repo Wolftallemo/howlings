@@ -1,7 +1,7 @@
 ---
 title: "PHP: Gender\\Gender"
 date: 2022-12-19T22:56:50-05:00
-draft: true
+draft: false
 ---
 
 [The horridness and downright strangeness of PHP](
